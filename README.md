@@ -19,6 +19,16 @@ Thorough exploration of this repo & the tasks associated with it should give pra
 
 [Interviews](https://github.com/CodeForPittsburgh/playground/tree/master/Interviews) contains an open forum for trying out a few easy methods of data collection. The themed activity which relates to it is the interviewing of other humans about their childhood play places, with a focus on places that no longer exist, or have been altered significantly from how they were when they were young. This can be done through introspection, if other people are not available.
 
-Code for Pittsburgh documentation is always CC Zero.
+Other folders will be noted here as they are added.
+
+## How do I use this repo?
+
+Click into the folders and follow the readmes there to perform a series of structured activities within the repository. Each of the folders contains its own readme file, with its own explanation of the the curriculum offered, the activities involved, and the methods of performing them.
+
+Feel free to clone or fork this repo. Adapt it for your own use. Put it in your book. Add it to your project.
+
+## Licence Structure
+
+Code for Pittsburgh documentation is always CC Zero. In plain speech, this means that it is public domain knowledge. Universally accessible, common heritage. Use it in whatever way you wish.
 
 "These fragments I have shored against my ruins"
