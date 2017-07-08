@@ -36,7 +36,8 @@ Personal History Of Site | Written description of interviewees personal history 
 
 * click on "Create New File"
 * paste the above into that file
-* Using carriage returns & then any other markdown features you want (except for # - header 1) (Click through a few other completed files to get the gist of the format & form) ...
+* make the title **"YOUR NAME interviews THEIR NAME 20YY-MM-DD.md"** - a markdown file.
+* Using carriage returns & then any other markdown features you want (except for # - header 1) (Click through a few other completed files to get the gist of the format & form) to ...
 * Fill out the various fields, using the field guide above.
-* Fill out some information about what it is you just did (interviewed someone and typed up your interview) in the Commit Changes fields (title & description) & then hit the Commit Changes button.
+* Fill out some information about what it is you just did (interviewed someone and typed up your interview) in the Commit Changes fields at the bottom of the screen (title & description) & then hit the Commit Changes button.
 * That's it! You've created a new interview.
