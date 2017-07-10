@@ -22,6 +22,43 @@ Thorough exploration of this repo & the tasks associated with it should give pra
 Other folders will be noted here as they are added.
 
 ## How do I use this repo?
+Republished from [Code for Anchorage](https://github.com/anchorageprogramming/github101).
+
+
+Github 101
+=========
+
+A training project for GitHub.
+
+### Download the GitHub Client
+* Download the app using the appropriate link below:
+  * Windows: http://windows.github.com/
+  * Mac: http://mac.github.com/
+  
+### What is GitHub?
+It is a web-based hosting service for software development projects using the Git revision control system. 
+*Stolen from [wikipedia](http://en.wikipedia.org/wiki/GitHub).*
+
+### What does that mean?
+Are you familiar with Wikipedia? People from all over the world are able to edit, view, and add to the information on Wikipedia. Github is a similar concept.
+* **Central Access**: As long as someone has internet access, she can access the project.
+* **Track Changes**: Using git, you can see the history of changes made to a file.
+* **Collaboration**: Others can use your project as a starting point for their own efforts, or contribute to yours. With git, merging your changes with other people's changes is simplified.
+
+### What is Git?
+Git is a version control system, a way to manage changes to documents. Git is how we track and manage files, github is where we store a project and collaborate.
+* **Local Repository**: Collection of documents on your local machine.
+* **Remote Repository**: Collection of documents on another machine.
+* **Commit**: Snapshot of changes to a document.
+* **Sync**: Push and pull changes with a remote repository.
+
+### Create an account
+https://github.com/
+
+### Why use GitHub?
+It's free for projects that are public for all to see. It's a good place for people to give you feedback, potential employers to check out your work, and to store our work as we learn.
+
+## Playgrounds
 
 Click into the folders and follow the readmes there to perform a series of structured activities within the repository. Each of the folders contains its own readme file, with its own explanation of the the curriculum offered, the activities involved, and the methods of performing them.
 
